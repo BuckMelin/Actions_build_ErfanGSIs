@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://download.meizu.com/Firmware/Flyme/16s/9.21.6.15/cn_daily/20210615152751/fc560b23/update.zip
-  ROM_NAME: Flyme
+  ROM_URL: https://ava5.androidfilehost.com/dl/25iIEJj5dyomeNYQmNDvTg/1684653543/4349826312261670873/PixelExperience_helium-10.0-20191212-2317-UNOFFICIAL.zip?
+  ROM_NAME: MIUI
   TZ: Asia/Shanghai
 
 
